@@ -115,3 +115,5 @@ The installation document covers the following topics:
 
 Contributions to this project are welcome! If you have improvements or suggestions, please create a pull request.
 
+## License
+
