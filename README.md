@@ -98,7 +98,7 @@ To deploy your WordPress website to the VPS using GitHub Actions, follow these s
 
 ## Installation Guide
 
-For detailed installation instructions and step-by-step guidance, please refer to our Document https://docs.google.com/document/d/1YIGjGEVdtkTd0UBxaefotTMrb8dXC4GNWKc-97qvJ5I/edit?usp=sharing .
+For detailed installation instructions and step-by-step guidance, please refer to our Document https://docs.google.com/document/d/1YIGjGEVdtkTd0UBxaefotTMrb8dXC4GNWKc-97qvJ5I/edit?usp=sharing.
 
 The installation document covers the following topics:
 
