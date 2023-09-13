@@ -25,4 +25,4 @@ jobs:
 
           # Execute the deployment commands
           ssh ubuntu@15.206.173.55 'sudo su && cd /var/www/brainstormtest.hopto.org && ls'
-          # Additional deployment steps if needed
+          # Additional deployment steps if need
