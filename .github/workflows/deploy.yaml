@@ -24,5 +24,5 @@ jobs:
           ssh-keyscan -H 15.206.173.55 >> ~/.ssh/known_hosts
 
           # Execute the deployment commands
-          ssh ubuntu@15.206.173.55 'sudo su && cd /var/www/brainstormtest.hopto.org && git pull'
+          ssh ubuntu@15.206.173.55 'sudo su && cd /var/www/brainstormtest.hopto.org && git pull && ls -la'
           # Additional deployment steps if needed
